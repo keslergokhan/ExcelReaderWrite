@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestControl", "HttpRequestControl\HttpRequestControl.csproj", "{16369D6D-9371-483E-BDAD-201EA7834823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16369D6D-9371-483E-BDAD-201EA7834823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16369D6D-9371-483E-BDAD-201EA7834823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16369D6D-9371-483E-BDAD-201EA7834823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16369D6D-9371-483E-BDAD-201EA7834823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C04C18D-9710-48B5-A04A-AD3F11361DA4}
+	EndGlobalSection
+EndGlobal

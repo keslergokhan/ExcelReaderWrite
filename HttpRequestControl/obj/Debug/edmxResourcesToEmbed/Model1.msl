@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FLYPGS_NEWTSModelStoreContainer" CdmEntityContainer="FLYPGS_NEWTSEntities">
+    <EntitySetMapping Name="PageLoungeGroup">
+      <EntityTypeMapping TypeName="FLYPGS_NEWTSModel.PageLoungeGroup">
+        <MappingFragment StoreEntitySet="PageLoungeGroup">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Lounge" ColumnName="Lounge" />
+          <ScalarProperty Name="PageName" ColumnName="PageName" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="GroupCode" ColumnName="GroupCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
